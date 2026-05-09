@@ -1,0 +1,21 @@
+# ESP32-Duco-Miner-Adv Git Ignore
+
+# Sensitive data
+ESP32-Miner-Code/credentials.h
+
+# Arduino / Build files
+build/
+bin/
+*.hex
+*.elf
+*.bin
+
+# IDE settings
+.vscode/
+.idea/
+*.vscdb
+*.code-workspace
+.DS_Store
+
+# Logs
+*.log
