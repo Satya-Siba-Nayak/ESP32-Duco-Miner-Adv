@@ -90,6 +90,13 @@ Because this code includes a beautiful dashboard and OTA features, it is **large
 
 ---
 
+## 🆘 Support & Troubleshooting
+If you face any issues, bugs, or compilation errors:
+1.  Check the **[GitHub Issues](https://github.com/Satya-Siba-Nayak/ESP32-Duco-Miner-Adv/issues)** tab to see if someone else has already solved it.
+2.  If not, feel free to **[Open a New Issue](https://github.com/Satya-Siba-Nayak/ESP32-Duco-Miner-Adv/issues/new)** with details about your problem!
+
+---
+
 ## 💖 Credits & Support
 Made with ♡ by **[Satya](https://satya.is-a.dev)**.
 For help or more info, visit the **[Duino-Coin Official Website](https://duinocoin.com)**.
